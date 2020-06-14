@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/HackingBrian584/appnoticia/static/css/main.7ba43606.chunk.css",
+    "main.js": "/HackingBrian584/appnoticia/static/js/main.d2515575.chunk.js",
+    "main.js.map": "/HackingBrian584/appnoticia/static/js/main.d2515575.chunk.js.map",
+    "runtime-main.js": "/HackingBrian584/appnoticia/static/js/runtime-main.927bdd9a.js",
+    "runtime-main.js.map": "/HackingBrian584/appnoticia/static/js/runtime-main.927bdd9a.js.map",
+    "static/js/2.1346f748.chunk.js": "/HackingBrian584/appnoticia/static/js/2.1346f748.chunk.js",
+    "static/js/2.1346f748.chunk.js.map": "/HackingBrian584/appnoticia/static/js/2.1346f748.chunk.js.map",
+    "index.html": "/HackingBrian584/appnoticia/index.html",
+    "precache-manifest.1be673d31cd475318ce79969b66f9282.js": "/HackingBrian584/appnoticia/precache-manifest.1be673d31cd475318ce79969b66f9282.js",
+    "service-worker.js": "/HackingBrian584/appnoticia/service-worker.js",
+    "static/css/main.7ba43606.chunk.css.map": "/HackingBrian584/appnoticia/static/css/main.7ba43606.chunk.css.map",
+    "static/js/2.1346f748.chunk.js.LICENSE.txt": "/HackingBrian584/appnoticia/static/js/2.1346f748.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.927bdd9a.js",
+    "static/js/2.1346f748.chunk.js",
+    "static/css/main.7ba43606.chunk.css",
+    "static/js/main.d2515575.chunk.js"
+  ]
+}
